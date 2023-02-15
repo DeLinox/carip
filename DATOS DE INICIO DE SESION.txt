@@ -1,0 +1,6 @@
+Credenciales de inicio de sesion
+--------------------------------
+
+usuario: admin
+contraseña: admin
+
